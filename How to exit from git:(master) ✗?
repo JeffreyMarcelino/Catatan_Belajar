@@ -1,0 +1,19 @@
+Below steps worked;
+
+➜ ~ git:(master) ✗ pwd
+
+/Users/bunty_home
+
+➜ ~ git:(master) ✗ cd .. (this command is to exit out of git repository)
+
+➜ ~ git:(master) ✗ rm -r .git
+
+override r--r--r-- bunty_home/staff for .git/objects/pack/pack-f76e6a02ba4d161b1b453179ba12835649ce2ace.pack?
+
+Pressed Enter a couple times to agree all the questions like above
+
+➜ ~
+
+➜ ~ pwd
+
+/Users/bunty_home
